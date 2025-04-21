@@ -59,6 +59,6 @@ I specialize in designing, automating, and optimizing scalable cloud infrastruct
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GfavourBraimah&theme=radical)](https://git.io/streak-stats)
 
 ---
-
+ [**Download CV**](https://drive.google.com/file/d/1nZJkVguTSvzEqdsoR4rrO9VdsWpvQ1yY/view?usp=sharing) 
 > “DevOps is not a role. It’s a culture, a mindset, and a continuous journey to deliver value securely.”  
 > — Let’s build reliable, automated, and secure cloud systems together.
